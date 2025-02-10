@@ -1,3 +1,3 @@
 # SimonCamba.github.io-CalcolatoreSommaAlgebrica
 
-Permette di eseguire la somma algebrica di numeri inseriti da input. Il calcolo viene effettuato una volta inserito il carattere "x" o "X"
+Permette di eseguire la somma algebrica di numeri inseriti da input. L'inserimento del carattere "x" o "X" pone fine all'inserimento dei valori da parte dell'utente e inizializza il calcolo
